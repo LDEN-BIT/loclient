@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.visualclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GameRendererMixin",
+    "MinecraftMixin",
+    "ClientLevelMixin",
+    "ParticleEngineMixin",
+    "EntityMixin",
+    "CameraMixin",
+    "ShapeRendererMixin",
+    "LivingEntityMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}

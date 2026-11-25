@@ -1,0 +1,12 @@
+{
+  "key.category.loclient.main": "Lo Client",
+  "key.loclient.toggle_hud": "Toggle HUD",
+  "key.loclient.toggle_keys": "Toggle Keystrokes",
+  "key.loclient.cycle_corner": "Move HUD Corner / Reset Positions",
+  "key.loclient.zoom": "Zoom (hold)",
+  "key.loclient.settings": "Open Settings",
+  "key.loclient.freelook": "Freelook (hold)",
+  "key.loclient.waypoint": "Add Waypoint Here",
+  "key.loclient.hud_editor": "Edit HUD Layout",
+  "key.loclient.fullbright": "Toggle Fullbright"
+}
